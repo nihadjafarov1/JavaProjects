@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres_spring
+    username: postgres
+    password: nihad
+  security:
+    user:
+      name: nihad
+      password: nihad123
+
